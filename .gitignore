@@ -30,3 +30,7 @@
 
 # Debug files
 *.dSYM/
+
+#my rule
+/STM32F10x_FWLib/*
+/OBJ/*
